@@ -1,4 +1,4 @@
-from tmp.main import main
+from api.app import main
 import pytest
 
 
